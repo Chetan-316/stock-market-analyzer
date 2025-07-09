@@ -69,6 +69,8 @@ stock-market-insights-chatbot/
 
 ## 🖼 Screenshots
 ![Uploading image.png…]()
+![Uploading image.png…]()
+
 
 
 🧑‍💻 Contributors
